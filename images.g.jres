@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAUFVVVQAAAABVVVVVBQAAUFVVVVVVAABVVVVV/1UFAFVVX1X1VQUAVVVVVfVVBQBVVVVV9VUFAFVVX1X1VQUAVVVVVf9VBQBVVVVVVVUFAFBVVVVVVQAAAFVVVVUFAAAAUFVVVQAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "VınVın"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
